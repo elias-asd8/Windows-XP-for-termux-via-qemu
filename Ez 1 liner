@@ -1,0 +1,1 @@
+curl -sL https://raw.githubusercontent.com/elias-asd8/Windows-XP-VM-for-termux/main/setup.sh | bash
